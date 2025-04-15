@@ -9,7 +9,7 @@ import sqlite3
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDeCfka3goQtaqdQFQ6IDW2qkdneps-Otw"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyB97vycGzxXT-BCLaS-aUFAOtmIxIWCUxI"
 weather_api_key = "d356b277d7ff8fe30aa4971bfa6b7f92"
 
 # Set page configuration
